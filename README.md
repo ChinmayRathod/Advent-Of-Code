@@ -15,7 +15,7 @@ Explore multiple algorithms and optimizations
 Have fun solving festive puzzles! 🎅
 
   Days      
-| ----------------------------- |
+| ----------| | | | | |
 | 1  - 5    | :star::star: |  |  |  |  |
 | 6  - 10   |       |  |  |  |  |
 | 11 - 15   |       |  |  |  |  |
