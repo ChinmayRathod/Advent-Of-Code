@@ -14,7 +14,7 @@ Write clean, reusable, and well-documented solutions
 Explore multiple algorithms and optimizations
 Have fun solving festive puzzles! 🎅
 
-  Days      
+### Days      
 | Day Range | 1 | 2 | 3 | 4 | 5 |
 |----------:|---|---|---|---|---|
 | **1 – 5**     | :star::star: |  |  |  |  |
@@ -23,6 +23,6 @@ Have fun solving festive puzzles! 🎅
 |----------:|---|---|---|---|----|
 | **6 – 10**    |     |     |     |     |     |
 
-| Day Range | 11 | 12 | 13 | 14 | 15 |
-|----------:|----|----|----|----|----|
-| **11 – 15**   |     |     |     |     |     |
+| Day Range | 11 | 12 |
+|----------:|----|----|
+| **11 – 12**   |     |     |
