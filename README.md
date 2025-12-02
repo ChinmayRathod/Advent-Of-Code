@@ -17,7 +17,7 @@ Have fun solving festive puzzles! 🎅
 ### Days      
 | Day Range | 1 | 2 | 3 | 4 | 5 |
 |----------:|---|---|---|---|---|
-| **1 – 5**     | :star::star: |  |  |  |  |
+| **1 – 5**     | :star::star: | :star::star: |  |  |  |
 
 | Day Range | 6 | 7 | 8 | 9 | 10 |
 |----------:|---|---|---|---|----|
