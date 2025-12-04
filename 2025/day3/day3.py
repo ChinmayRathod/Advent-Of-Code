@@ -1,4 +1,3 @@
-
 def compute(num, n):
     sum = 0
     on = num[-n:]
